@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="80" height="80" viewBox="0 0 80 80" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs>
+    <polygon id="a" points="0 52 52 52 52 0 0 0"/>
+  </defs>
+  <g fill="none" fill-rule="evenodd" transform="translate(11 12)">
+    <path fill="#000000" d="M52,0 L52,43 C52,48 48,52 43,52 L8,52 L11,28.1 L11,0 L52,0 Z M49,3 L14,3 L14,28.1 L14,28.3 L14,28.5 L11.4,49 L43,49 C46.3,49 49,46.3 49,43 L49,3 Z"/>
+    <path fill="#FFFFFF" d="M8,50.5 C5.5,50.5 3.5,48.5 3.5,46 L3.5,29 C3.5,26.5 5.5,24.5 8,24.5 C10.5,24.5 12.5,26.5 12.5,29 L12.5,46 C12.5,48.5 10.5,50.5 8,50.5"/>
+    <path fill="#000000" d="M8,23 C4.7,23 2,25.7 2,29 L2,46 C2,49.3 4.7,52 8,52 C11.3,52 14,49.3 14,46 L14,29 C14,25.7 11.3,23 8,23 M8,26 C9.7,26 11,27.3 11,29 L11,46 C11,47.7 9.7,49 8,49 C6.3,49 5,47.7 5,46 L5,29 C5,27.3 6.3,26 8,26"/>
+    <mask id="b" fill="white">
+      <use xlink:href="#a"/>
+    </mask>
+    <polygon fill="#FFFFFF" points="0 34 11 34 11 18 0 18" mask="url(#b)"/>
+    <polygon fill="#000000" points="2 37 12 37 12 34 2 34" mask="url(#b)"/>
+    <path stroke="#FFCD05" stroke-width="3" d="M19.3999,11.5996 L43.4999,11.4996" mask="url(#b)"/>
+    <path stroke="#000000" stroke-width="3" d="M19.3999,17.5996 L31.5,17.5996" mask="url(#b)"/>
+    <path stroke="#FFCD05" stroke-width="3" d="M26.5,29.5 C29.813,29.5 32.5,32.187 32.5,35.5 C32.5,38.813 29.813,41.5 26.5,41.5 C23.187,41.5 20.5,38.813 20.5,35.5 C20.5,32.187 23.187,29.5 26.5,29.5 Z" mask="url(#b)"/>
+  </g>
+</svg>
